@@ -1,0 +1,22 @@
+# Editor
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Log files
+*.log
+
+# Env files
+.env
+
+# System
+.DS_Store
+Thumbs.db
+
+# Kubernetes secrets (jika ada)
+secrets.yaml
